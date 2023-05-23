@@ -11,3 +11,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittyjuanes&show_icons=true&locale=en" alt="kittyjuanes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittyjuanes&" alt="kittyjuanes" /></p>
+
+#### Algunos de mis proyectos:
+
+
+
+| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+|---|---|---|
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
