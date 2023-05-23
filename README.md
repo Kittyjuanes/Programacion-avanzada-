@@ -19,7 +19,7 @@ ___
 ##### Programming languages
 
 
-<p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cpluplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65"/> </a>
+<p align="left"> <a href="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cpluplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65"/> </a>
 </p>
 
 
