@@ -19,7 +19,7 @@ ___
 ##### Programming languages
 
 
-<p align="left"> <a href="https://www.java.com/es/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="java" width="65" height="65"/> <a href="https://cplusplus.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59276?s=200&v=4" alt="cplusplus" width="65" height="65"/> </a>
+<p align="left"> <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="65" height="65"/> <a href="https://cplusplus.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59276?s=200&v=4" alt="cplusplus" width="65" height="65"/> </a>
 </p>
 
 
