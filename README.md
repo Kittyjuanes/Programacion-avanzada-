@@ -1,16 +1,29 @@
-<h1 align="center">Hi 👋, I'm Juan Garzon</h1>
-<h3 align="center">Un apasionado ingeniero de sistemas en camino</h3>
+### Mi nombre es Juan Garzón 🤑
+#### Desarrollador junior 😬 actualmente en **búsqueda activa** de un titulo universitario♨️
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittyjuanes" alt="kittyjuanes" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittyjuanes&show_icons=true&locale=en&layout=compact" alt="kittyjuanes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittyjuanes&show_icons=true&locale=en" alt="kittyjuanes" /></p>
+#### Actualmente me dedico a:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittyjuanes&" alt="kittyjuanes" /></p>
+
+- A pasar la carrera
+- Pasar es pasar 😈
+___
+
+
+
+#### Tengo conocimientos sobre:
+
+
+##### Programming languages
+
+
+<p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cpluplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65"/> </a>
+</p>
+
+
+____
 
 #### Algunos de mis proyectos:
 
@@ -23,3 +36,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
+
