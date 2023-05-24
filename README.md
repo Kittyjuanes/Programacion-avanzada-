@@ -31,7 +31,8 @@ ____
 
 | Pong  | Random  | Raices cuadradas  |
 |---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/Kittyjuanes/Programacion-avanzada-/blob/main/Pong.java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pong.png/640px-Pong.png" width="250" height="200"/></a> |  <a href="https://github.com/Kittyjuanes/Programacion-avanzada-/blob/main/Random.cpp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Two_red_dice_01.svg/1200px-Two_red_dice_01.svg.png" width="250" height="200"/></a> | <a href="https://github.com/Kittyjuanes/Programacion-avanzada-/blob/main/Raices_cuadradas.cpp" target="_blank"> <img src="https://www.aulafacil.com/uploads/cursos/734/editor/potenciasyraices_html_m7126545f.es.jpg" width="250" height="200"/></a>  |
+|  <a href="" target="_blank"> <img src="" width="250" height="200"/></a> |
 
 
 
