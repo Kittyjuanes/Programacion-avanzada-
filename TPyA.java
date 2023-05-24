@@ -65,12 +65,12 @@ class Computadora extends ProductoElectronico {
 
     public void cargar() {
         System.out.println("Cargando la computadora " + getMarca() + "...");
-        // Lógica específica para cargar una computadora
+        // Lógica para cargar una computadora
     }
 
     public void ejecutarPrograma() {
         System.out.println("Ejecutando un programa en la computadora " + getMarca() + "...");
-        // Lógica específica para ejecutar un programa en una computadora
+        // Lógica para ejecutar un programa en una computadora
     }
 }
 
